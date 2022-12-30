@@ -111,3 +111,14 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 </p>
 <br />
+
+<h2>CLEAN UP!!!!</h2>
+
+<p>
+  
+- Close your Remote Desktop connection
+- Delete the Resource Group(s) created at the beginning of this lab
+- Verify Resource Group Deletition
+
+</p>
+<br />
