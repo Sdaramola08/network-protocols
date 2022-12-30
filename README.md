@@ -33,7 +33,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
-<h2>PART 1: CREATE OUR RESOURCES</h2>
+<h3>PART 1: CREATE OUR RESOURCES</h3>
 <p>
 
 - Create a Resource Group
@@ -47,7 +47,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 
-<h2>PART 2: OBSERVE ICMP TRAFFIC</h2>
+<h3>PART 2: OBSERVE ICMP TRAFFIC</h3>
 
 <p>
 
@@ -67,7 +67,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 
-<h2>PART 3: OBSERVE SSH TRAFFIC</h2>
+<h3>PART 3: OBSERVE SSH TRAFFIC</h3>
 
 <p>
 
@@ -79,7 +79,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 
-<h2>PART 4: OBSERVE DHCP TRAFFIC</h2>
+<h3>PART 4: OBSERVE DHCP TRAFFIC</h3>
 
 <p>
 
@@ -90,7 +90,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 
-<h2>PART 5: OBSERVE DNS TRAFFIC</h2>
+<h3>PART 5: OBSERVE DNS TRAFFIC</h3>
 
 <p>
 
@@ -101,7 +101,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 
-<h2>PART 6: OBSERVE RDP TRAFFIC</h2>
+<h3>PART 6: OBSERVE RDP TRAFFIC</h3>
 
 <p>
 
@@ -112,7 +112,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 
-<h2>CLEAN UP!!!!</h2>
+<h3>CLEAN UP!!!!</h3>
 
 <p>
   
